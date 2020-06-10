@@ -1,4 +1,10 @@
 # Speaker-Recognition-Using-Deep-Learning-Python3
+
+###### For Detailed Explaination visit 
+https://medium.com/@shivam_shukla/speaker-identification-and-verification-using-ml-techniques-and-hindi-speech-dataset-2f2ad8f2aef6
+###### You can download custom-built Dataset from
+https://github.com/shivam-shukla/Speech-Dataset-in-Hindi-Language
+
 ```
 * Install Python Version 3 or above.
 ```
@@ -19,3 +25,4 @@
 ```
 * Now you can test your model by running main.py file.
 ```
+
